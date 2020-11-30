@@ -39,3 +39,8 @@ The detail of can be found at [3D-Point-Cloud-Curve-Extraction](https://github.c
 
 ### 4.mutilayer planning
 For detail, please check [Mutilayer weld path planning](https://github.com/romi-lab/mutilayer-weld-path-planning).
+
+## Related publication
+P. Zhou, R. Peng, M. Xu, V. Wu and D. Navarro-Alarcon.  Path Planning with Automatic Seam Extraction over Point Cloud Models for Robotic Arc Welding, IEEE Robotics and Automation Letters (RA-L) (under review), 2020. [[pdf]](https://601318ff-63df-413d-983a-b8c13c4c1e60.filesusr.com/ugd/49b3f5_6ff63735794a4965b76fb5c6de7edc53.pdf)
+
+Video: [Path Planning with Automatic Seam Extraction over Point Cloud Models for Robotic Arc Welding](https://vimeo.com/453908150)
