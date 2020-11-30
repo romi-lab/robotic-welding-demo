@@ -27,6 +27,7 @@ Adopted from [felixchenfy](https://github.com/felixchenfy/open3d_ros_pointcloud_
 Part of the methods is adopted from our [previous work](https://github.com/romi-lab/weldingRobot-CNERC) on robotic welding.
 We used a different geometry featrue (asymmetry) this time and optimised the processing.
 The seam can be detected on a real-time basis.
+
 <img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/detect.gif" width="600" alt="">  
 
 ### 3.compute the trajectroy
