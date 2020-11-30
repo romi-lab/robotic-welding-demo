@@ -28,7 +28,7 @@ Part of the methods is adopted from our [previous work](https://github.com/romi-
 We used a different geometry featrue (asymmetry) this time and optimised the processing.
 The seam can be detected on a real-time basis.
 
-<img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/detect.gif" width="600" alt="">  
+<img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/detect.gif" width="500" alt="">  
 
 ### 3.compute the trajectroy
 After getting the groove, we find the centerline of the region and then ordered it.
