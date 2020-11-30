@@ -32,6 +32,9 @@ The seam can be detected on a real-time basis.
 
 ### 3.compute the trajectroy
 After getting the groove, we find the centerline of the region and then ordered it.
+
+<img src="https://github.com/aliadnani/3D-Point-Cloud-Curve-Extraction/blob/main/assets/2020-11-10-11-16-57.png" width="400" alt=""><img src="https://github.com/aliadnani/3D-Point-Cloud-Curve-Extraction/blob/main/assets/2020-11-10-11-17-08.png" width="400" alt=""> 
+
 The detail of can be found at [3D-Point-Cloud-Curve-Extraction](https://github.com/aliadnani/3D-Point-Cloud-Curve-Extraction).
 
 ### 4.mutilayer planning
