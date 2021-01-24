@@ -10,11 +10,11 @@ It has 4 functions:
 
 The result looks this this:
 
-<img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/1.gif" width="800" alt="">
+<img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/1.gif" alt="">
 
-<img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/2.gif" width="800" alt="">
+<img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/2.gif" alt="">
 
-<img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/3.gif" width="800" alt="">  
+<img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/3.gif" alt="">  
 
 
 ## Detail
@@ -38,6 +38,8 @@ After getting the groove, we find the centerline of the region and then ordered 
 The detail can be found at [3D-Point-Cloud-Curve-Extraction](https://github.com/aliadnani/3D-Point-Cloud-Curve-Extraction).
 
 #### 4.mutilayer planning
+<img src="https://github.com/romi-lab/robotic-welding-demo/blob/main/demo/mutilayer.gif" alt="">  
+
 For detail, please check [Mutilayer weld path planning](https://github.com/romi-lab/mutilayer-weld-path-planning).
 
 ## Related links
