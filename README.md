@@ -24,7 +24,7 @@ The system is built and tesated on ROS kinetic. Much of the point cloud processi
 Adopted from [felixchenfy](https://github.com/felixchenfy/open3d_ros_pointcloud_conversion).
 
 #### 2.find the corresponding groove
-Part of the methods is adopted from our [previous work]([https://github.com/romi-lab/weldingRobot-CNERC](https://github.com/romi-lab/robotic-sealing?tab=readme-ov-file)) on robotic welding.
+Part of the methods is adopted from our [robotic-sealing](https://github.com/romi-lab/robotic-sealing?tab=readme-ov-file) on robotic welding.
 We used a different geometry featrue (asymmetry) this time and optimised the processing.
 The seam can be detected on a real-time basis.
 
